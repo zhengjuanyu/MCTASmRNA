@@ -1,2 +1,2 @@
-model_checkpoint_path: "Ara"
-all_model_checkpoint_paths: "Ara"
+model_checkpoint_path: "TAIR10"
+all_model_checkpoint_paths: "TAIR10"
